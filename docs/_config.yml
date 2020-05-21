@@ -30,7 +30,7 @@ twitter_username: mihaitatinta
 github_username:  mihaita-tinta
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
